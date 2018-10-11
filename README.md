@@ -1,2 +1,2 @@
-# SkyWars
-SkyWars plugin. Lang geleden gemaakt.
+# SkyBlock
+SkyBlock plugin. Lang geleden gemaakt.
